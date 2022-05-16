@@ -1,0 +1,32 @@
+.body{
+  margin: 0;
+  padding: 0;
+}
+
+.footer{
+  background-color: #212529;
+}
+
+.jumbotron-login{
+  color: rgb(0, 0, 0);
+  height: 100vh;
+  align-items: center;
+  border-bottom: 0px;
+  font-weight: 400;
+  padding: 0px;
+  margin: 0px !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.login-anchor{
+  color: rgb(42, 124, 218);
+  text-decoration: underline;
+}
